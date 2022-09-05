@@ -1,6 +1,6 @@
 <h3> Hi, I'm Asger 👋</h3>
   
-  <samp>I am a frontend developer based in Copenhagen. <br> Currently working at <a href="https://kvalifik.dk">Kvalifik</a> and finishing my Master's degree in Software Design @ ITU</samp>
+  <samp>I am a frontend developer based in Copenhagen. <br> Currently working at <a href="https://reepay.com/">Reepay A/S</a>. Master of Science in Software Design @ ITU</samp>
 <br>
 </p>
 
@@ -22,8 +22,10 @@
 #### Frameworks and libraries
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
     
