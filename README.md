@@ -31,8 +31,11 @@
     
 ### Experience
 
+**Software Developer**  
+<sub>Reepay A/S, September 2022 - now</sub>
+
 **Frontend Developer**  
-<sub>Kvalifik, 2019 - now</sub>
+<sub>Kvalifik Aps, July 2019 - August 2022</sub>
 
 **Teaching Assistant**  
 <sub>Course: "Introduction to Programming"</sub>  
