@@ -38,6 +38,10 @@
 <sub>Course: "Introduction to Programming"</sub>  
 <sub>IT University of Copenhagen, Autumn 2020</sub>  
 
+### Volunteering
+**Frontend Developer (React)**  
+<sub>Roskilde Festival IT, January 2024 - now</sub>
+
 ### Education
 
 **MSc. in Software Design**  
