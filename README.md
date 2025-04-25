@@ -1,6 +1,6 @@
 <h3> Hi, I'm Asger 👋</h3>
   
-  <samp>I am a frontend developer based in Copenhagen. <br> Currently working at <a href="https://reepay.com/">Billwerk+ Denmark A/S</a> (formerly Reepay A/S). Master of Science in Software Design @ ITU</samp>
+  <samp>I am a frontend developer based in Copenhagen. <br> Currently working at <a href="https://frisbii.com/">Frisbii Denmark A/S</a> (formerly Billwerk+, Reepay). Master of Science in Software Design @ ITU</samp>
 <br>
 </p>
 
@@ -29,7 +29,7 @@
 ### Experience
 
 **Software Developer**  
-<sub>Billwerk+ Denmark A/S, September 2022 - now</sub>
+<sub>Frisbii Denmark A/S, September 2022 - now</sub>
 
 **Frontend Developer**  
 <sub>Kvalifik Aps, July 2019 - August 2022</sub>
