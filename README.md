@@ -1,6 +1,6 @@
 <h3> Hi, I'm Asger 👋</h3>
   
-  <samp>I am a frontend developer based in Copenhagen. <br> Currently working at <a href="https://frisbii.com/">Frisbii Denmark A/S</a> (formerly Billwerk+, Reepay). Master of Science in Software Design @ ITU</samp>
+  <samp>I am a frontend developer based in Copenhagen. <br> Currently working at <a href="https://www.flatpay.com/">Flatpay ApS</a>. Master of Science in Software Design @ ITU</samp>
 <br>
 </p>
 
@@ -28,8 +28,11 @@
 
 ### Experience
 
-**Software Developer**  
-<sub>Frisbii Denmark A/S, September 2022 - now</sub>
+**Frontend Developer (React)**  
+<sub>Flatpay ApS, March 2026 - now</sub>
+
+**Frontend Developer (Angular)**  
+<sub>Frisbii Denmark A/S, September 2022 - February 2026</sub>
 
 **Frontend Developer**  
 <sub>Kvalifik Aps, July 2019 - August 2022</sub>
